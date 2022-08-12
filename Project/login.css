@@ -1,0 +1,36 @@
+body{
+    background-image:url("stuff.png") ;
+}
+.login{
+    width: 500px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+    background-color: aliceblue;
+}
+h2{
+    color: #000000;
+    font-family: sans-serif;
+}
+input{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #685d5d42;
+}
+button:hover{
+    font-size: 15px;
+}
